@@ -1,4 +1,4 @@
-# Práctica de Desarrollo de SOftware Dirigido por Modelos
+# Práctica de Desarrollo de Software Dirigido por Modelos
 
 This is a small sample book to give you a feel for how book content is
 structured.
